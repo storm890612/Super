@@ -17,7 +17,6 @@
 		A8A55F881DE689CA00E564CA /* UINavigationController+SNavigationController.m in Sources */ = {isa = PBXBuildFile; fileRef = A8A55F681DE689CA00E564CA /* UINavigationController+SNavigationController.m */; };
 		A8A55F891DE689CA00E564CA /* UIViewController+SNavigationController.m in Sources */ = {isa = PBXBuildFile; fileRef = A8A55F6A1DE689CA00E564CA /* UIViewController+SNavigationController.m */; };
 		A8A55F8A1DE689CA00E564CA /* NSObject+SDataRequestManager.m in Sources */ = {isa = PBXBuildFile; fileRef = A8A55F6D1DE689CA00E564CA /* NSObject+SDataRequestManager.m */; };
-		A8A55F8B1DE689CA00E564CA /* SDataRequest+Networking.m in Sources */ = {isa = PBXBuildFile; fileRef = A8A55F701DE689CA00E564CA /* SDataRequest+Networking.m */; };
 		A8A55F8C1DE689CA00E564CA /* SDataRequest.m in Sources */ = {isa = PBXBuildFile; fileRef = A8A55F721DE689CA00E564CA /* SDataRequest.m */; };
 		A8A55F8D1DE689CA00E564CA /* SDataRequestCallBackItem.m in Sources */ = {isa = PBXBuildFile; fileRef = A8A55F751DE689CA00E564CA /* SDataRequestCallBackItem.m */; };
 		A8A55F8E1DE689CA00E564CA /* SDataRequestManager.m in Sources */ = {isa = PBXBuildFile; fileRef = A8A55F771DE689CA00E564CA /* SDataRequestManager.m */; };
@@ -47,8 +46,6 @@
 		A8A55F6A1DE689CA00E564CA /* UIViewController+SNavigationController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "UIViewController+SNavigationController.m"; sourceTree = "<group>"; };
 		A8A55F6C1DE689CA00E564CA /* NSObject+SDataRequestManager.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "NSObject+SDataRequestManager.h"; sourceTree = "<group>"; };
 		A8A55F6D1DE689CA00E564CA /* NSObject+SDataRequestManager.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "NSObject+SDataRequestManager.m"; sourceTree = "<group>"; };
-		A8A55F6F1DE689CA00E564CA /* SDataRequest+Networking.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "SDataRequest+Networking.h"; sourceTree = "<group>"; };
-		A8A55F701DE689CA00E564CA /* SDataRequest+Networking.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "SDataRequest+Networking.m"; sourceTree = "<group>"; };
 		A8A55F711DE689CA00E564CA /* SDataRequest.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SDataRequest.h; sourceTree = "<group>"; };
 		A8A55F721DE689CA00E564CA /* SDataRequest.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = SDataRequest.m; sourceTree = "<group>"; };
 		A8A55F741DE689CA00E564CA /* SDataRequestCallBackItem.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SDataRequestCallBackItem.h; sourceTree = "<group>"; };
@@ -151,8 +148,6 @@
 			children = (
 				A8A55F6C1DE689CA00E564CA /* NSObject+SDataRequestManager.h */,
 				A8A55F6D1DE689CA00E564CA /* NSObject+SDataRequestManager.m */,
-				A8A55F6F1DE689CA00E564CA /* SDataRequest+Networking.h */,
-				A8A55F701DE689CA00E564CA /* SDataRequest+Networking.m */,
 				A8A55F711DE689CA00E564CA /* SDataRequest.h */,
 				A8A55F721DE689CA00E564CA /* SDataRequest.m */,
 				A8A55F741DE689CA00E564CA /* SDataRequestCallBackItem.h */,
@@ -276,7 +271,6 @@
 				A8A55F8F1DE689CA00E564CA /* SDataRequestParser.m in Sources */,
 				A8A55F511DE685F000E564CA /* AppDelegate.m in Sources */,
 				A8A55F871DE689CA00E564CA /* SNavigationParser.m in Sources */,
-				A8A55F8B1DE689CA00E564CA /* SDataRequest+Networking.m in Sources */,
 				A8A55F891DE689CA00E564CA /* UIViewController+SNavigationController.m in Sources */,
 				A8A55F4E1DE685F000E564CA /* main.m in Sources */,
 				A8A55F901DE689CA00E564CA /* SWeakDataRequest.m in Sources */,
